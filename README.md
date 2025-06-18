@@ -40,7 +40,7 @@ I enjoy building beautiful and functional websites, solving algorithmic challeng
 
 ## 📷 Screenshot
 
-![Portfolio Preview](./Photos/IMG_9480.jpg)
+![Portfolio Preview](./Photos/preview.png)
 
 ---
 
